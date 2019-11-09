@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author Liu Chaoxing
+ * @author manymango
  * @date 2019/10/13 11:24
  */
 public class ThreadPoolDebug {
