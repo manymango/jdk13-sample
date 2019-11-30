@@ -11,9 +11,10 @@ import java.util.Map;
 public class MapDebug {
     public static void main(String[] args) {
         Map<String, String> map = new HashMap<>(1);
-        map.put("111", "1");
-        map.put("1111", "2");
-        map.put("1111", "1");
+        for (int i=0; i<=100; ++i) {
+            map.put(i+"", i+"");
+        }
+        System.out.println(map.values());
         System.out.println("xixi");
     }
 }
