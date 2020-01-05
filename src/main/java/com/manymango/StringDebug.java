@@ -1,7 +1,7 @@
 package com.manymango;
 
 /**
- * @author Liu Chaoxing
+ * @author manymango
  * @date 2019/10/7 15:31
  */
 public class StringDebug {
